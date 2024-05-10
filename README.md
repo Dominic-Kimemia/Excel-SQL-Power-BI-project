@@ -1,6 +1,7 @@
- Top 100 Influencers: https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise/data
-About Dataset
-Dataset Description: Top 100 Influencers
+Top 100 Influencers: https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise/data
+
+About Dataset.
+Dataset Description: Top 100 Influencers.
 The dataset provides structured information about the top 100 influencers from various countries globally. Each entry represents an influencer and includes the following attributes:
 
 Rank: The ranking of the influencer in the top 100 list.
