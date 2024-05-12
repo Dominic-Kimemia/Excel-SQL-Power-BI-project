@@ -1,4 +1,4 @@
-# Data Portfolio: Excel, SQL, and Power BI 
+# Excel, SQL, and Power BI project
 
 
 ![excel-to-powerbi-animated-diagram](assets/images/kaggle_to_powerbi.gif)
