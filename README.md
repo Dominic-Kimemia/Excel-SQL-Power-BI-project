@@ -118,10 +118,6 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 
 
-
-![Dashboard-Mockup](assets/images/dashboard_mockup.png)
-
-
 ## Tools 
 
 
@@ -131,7 +127,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 | SQL Server | Cleaning, testing, and analyzing the data |
 | Power BI | Visualizing the data via interactive dashboards |
 | GitHub | Hosting the project documentation and version control |
-| Mokkup AI | Designing the wireframe/mockup of the dashboard | 
+
 
 
 # Development
@@ -274,7 +270,7 @@ FROM
 
 ```
 
-![Row count check](assets/images/1_row_count_check.png)
+![Row count check](Assets/Images/1_row_count_check.png)
 
 
 
